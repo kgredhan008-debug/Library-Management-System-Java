@@ -19,3 +19,9 @@ A terminal-based Library Management System built from scratch in Java using Obje
 - `Student.java` - Data model for student tracking.
 - `Library.java` - Core engine managing HashMaps and Queue logic.
 - `Main.java` - Interactive user CLI menu driven by a `Scanner` loop.
+
+  ## 💻 How to Run the Project
+1. Clone or download this repository.
+2. Open the project root folder in an IDE like **IntelliJ IDEA** or VS Code.
+3. Navigate to `src/Main.java`.
+4. Click **Run** to execute the interactive console menu.
